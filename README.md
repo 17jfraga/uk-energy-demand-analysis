@@ -67,7 +67,7 @@ The data centers require vast amounts of energy, and solar energy alone cannot c
 
 ## Reproducibility
 
-The original dataset is attached
+Open the file names 'UK_AI_Infrastructure_W1' for the code. At one point, it will prompt you to upload the dataset, which is attached as 'demanddata_2025.csv'
 
 ## Author
 
