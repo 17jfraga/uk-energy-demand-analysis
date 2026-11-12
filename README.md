@@ -43,13 +43,19 @@ The methodology includes:
 ## Key Findings
 
 1. Demand:
-The average demand profile shows a spike in the early waking hours, and a bigger one during the evening hours, with a slight dip in between these times. Demand really drops during the night, with 5am being the lowest demand time. 
+The average demand profile shows a spike in the early waking hours, and a bigger one during the evening hours to a maximum of circa 26,000 MW, with a slight dip in between these times. Demand really drops during the night, with 5am being the lowest demand time, at around 13,000 MW. 
 
 2. Renewable generation:
-Solar generation has a predictable pattern: an upward sloping curve until midday, and then a downward slope until it reaches zero after sunset. It stays at zero until sunrise
+Solar generation has a predictable pattern: an upward sloping curve until midday, and then a downward slope until it reaches zero after sunset. It stays at zero until sunrise.
 
 3. Business implications and limitations:
-The data centers require vast amounts of energy, and solar energy alone cannot consistently provide all of it, unless there is a way to store excess energy during times of peak generation.
+The analysis highlights the variability of embedded renewable generation, particularly solar generation, across the day.
+
+For data-centre developers, this reinforces the importance of securing reliable electricity supply rather than relying solely on intermittent generation sources.
+
+Potential solutions include combining renewable power purchase agreements (PPAs), grid electricity, battery storage and other dispatchable generation sources.
+
+However, this dataset does not establish the cost, availability or optimal energy mix for an individual data centre. Further analysis of electricity prices, grid constraints and storage economics would be required.
 
 ## Limitations
 
