@@ -1,4 +1,4 @@
-
+pip install requests
 import requests
 import pandas as pd
 import time
